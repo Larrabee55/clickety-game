@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/49/Kai%27SaSquare.png/revision/latest?cb=20180221202751",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/54/DariusSquare.png/revision/latest?cb=20160412191052",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ef/EkkoSquare.png/revision/latest?cb=20151218185247",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0f/JaxSquare.png/revision/latest?cb=20150402220202",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8b/JhinSquare.png/revision/latest?cb=20160113233242",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/88/UrgotSquare.png/revision/latest?cb=20170711190113",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/95/VayneSquare.png/revision/latest?cb=20150402222338",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/42/WarwickSquare.png/revision/latest?cb=20170110204118",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bb/ZedSquare.png/revision/latest?cb=20160526214523",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/eb/SylasSquare.png/revision/latest?cb=20190108224754",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/46/RivenSquare.png/revision/latest?cb=20150402220906",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/83/PykeSquare.png/revision/latest?cb=20180522232638",
+    "clicked": false
+  }
+]
